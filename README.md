@@ -97,12 +97,12 @@ http://localhost:5173
 ## Demo Visual
 
 ### Vista Escritorio
-![Demo escritorio](./img/propinasDesktop.gif)  
-*Muestra la aplicación funcionando en pantalla de escritorio.*
+<p><em>Muestra la aplicación funcionando en pantalla de escritorio.</em></p>
+<img src="./img/propinasDesktop.gif" width="600" alt="Demo escritorio" />
 
 ### Vista Móvil
-![Demo móvil](./img/propinasMobile%2017.35.11.gif)  
-*Muestra la aplicación funcionando en un dispositivo móvil, con diseño responsivo.*
+<p><em>Muestra la aplicación funcionando en un dispositivo móvil, con diseño responsivo.</em></p>
+<img src="./img/propinasMobile%2017.35.11.gif" width="300" alt="Demo móvil" />
 
 ---
 
