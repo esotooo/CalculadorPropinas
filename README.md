@@ -94,13 +94,15 @@ http://localhost:5173
 
 ---
 
-## Demo en Video
+## Demo Visual
 
-[![Demo 1 - Calculadora de Propinas](https://img.youtube.com/vi/w2Duf39b2TQ/0.jpg)](https://www.youtube.com/watch?v=w2Duf39b2TQ)  
-*Demo 1 - Vista general de la calculadora de propinas en Escritorio.*
+### Vista Escritorio
+![Demo escritorio](./img/propinasDesktop.gif)  
+*Muestra la aplicación funcionando en pantalla de escritorio.*
 
-[![Demo 2 - Calculadora de Propinas](https://img.youtube.com/vi/rOxCmStfqP8/0.jpg)](https://www.youtube.com/watch?v=rOxCmStfqP8)  
-*Demo 2 - Vista general de la calculadora de propinas en Teléfono.*
+### Vista Móvil
+![Demo móvil](./img/propinasMobile%2017.35.11.gif)  
+*Muestra la aplicación funcionando en un dispositivo móvil, con diseño responsivo.*
 
 ---
 
