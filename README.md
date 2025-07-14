@@ -80,6 +80,8 @@ http://localhost:5173
 3. Elige el porcentaje de propina deseado entre las opciones disponibles.
 4. Observa cómo se actualizan el subtotal, propina y total a pagar en tiempo real.
 5. Pulsa "Guardar Orden" para limpiar el pedido y comenzar de nuevo.
+6. Diseño completamente responsivo, optimizado para dispositivos móviles y escritorio.
+
 
 ---
 
@@ -88,20 +90,14 @@ http://localhost:5173
 - Persistir estado del pedido en `localStorage` para mantener datos entre sesiones.
 - Añadir validaciones y mensajes de error para entradas inválidas.
 - Integrar sistema de pago o checkout.
-- Mejorar diseño y experiencia móvil.
+- Implementar modo oscuro para mejorar la experiencia de usuario en entornos con poca luz.
 
 ---
 
-## Capturas de Pantalla
+## Demo en Video
 
-1. **Menú:** muestra la lista de productos disponibles para agregar al pedido.  
-![Menú](./img/propinas_menu.png)
-
-2. **Consumo:** lista los productos agregados con cantidades y precios totales. Permite eliminar productos.  
-![Consumo](./img/propinas_consumo.png)
-
-3. **Totales y Propina:** muestra el subtotal, la propina calculada y el total a pagar, junto con el botón para guardar la orden.  
-![Totales y Propina](./img/propinas_totales.png)
+[Ver demostración (Desktop)](videos/propinasDesktop.mp4)  
+[Ver demostración (Mobile)](videos/propinasMobile.mp4)
 
 ---
 
